@@ -48,10 +48,10 @@ This mini project was created together with **Arian Hoxha** as part of our learn
 
 ---
 
-## 🚀 Author
+## 🚀 Authors
 
-Florent Hoxha  
-Aspiring Data Analyst
+Florent Hoxha and Arian Hoxha
+Aspiring Data Analysts
 
 ---
 
